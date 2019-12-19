@@ -1,4 +1,4 @@
-import {createDOMTree} from '../vdom/index.js';
+import {createDOMTree} from '/cv/cleana/vdom/index.js';
 
 const fullRenderer = (p_componentInfo) => (
   {

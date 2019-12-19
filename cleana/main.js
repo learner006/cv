@@ -1,10 +1,10 @@
-import say from './utils.js';
-import getVDOM from './vdom/skeleton.js';
-import {createDOMTree} from './vdom/index.js';
-import defaultList from './components/list.js';
-import canvasWrapper from './components/canvas.js';
-import storeFactory from './store/store.js';
-import linksListFactory from './components/linksList.js';
+import say from '/cv/cleana/utils.js';
+import getVDOM from '/cv/cleana/vdom/skeleton.js';
+import {createDOMTree} from '/cv/cleana/vdom/index.js';
+import defaultList from '/cv/cleana/components/list.js';
+import canvasWrapper from '/cv/cleana/components/canvas.js';
+import storeFactory from '/cv/cleana/store/store.js';
+import linksListFactory from '/cv/cleana/components/linksList.js';
 
 
 const root = document.querySelector('body');

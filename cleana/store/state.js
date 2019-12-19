@@ -1,4 +1,4 @@
-import customImageFactory from '../model/customImage.js';
+import customImageFactory from '/cv/cleana/model/customImage.js';
 
 const editorManager = {
 }
