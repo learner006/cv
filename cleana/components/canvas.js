@@ -1,4 +1,4 @@
-import say from '/cleana/utils.js';
+import say from '../utils.js';
 
 const imagePainter = (p_componentInfo) => (
   {

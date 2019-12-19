@@ -1,4 +1,4 @@
-import say from '/cleana/utils.js';
+import say from '../utils.js';
 import eventManagerFactory from './eventManager.js';
 import stateFactory from './state.js';
 

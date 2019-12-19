@@ -1,4 +1,4 @@
-import say from '/cleana/utils.js';
+import say from '../utils.js';
 
 const toCanvasSaver = (p_customImageState) => (
   {
