@@ -1,5 +1,5 @@
-import say from '/cleana/utils.js';
-import getVDOM from '/cleana/vdom/skeleton.js';
+import say from './utils.js';
+import getVDOM from './vdom/skeleton.js';
 import {createDOMTree} from '/cleana/vdom/index.js';
 import defaultList from '/cleana/components/list.js';
 import canvasWrapper from '/cleana/components/canvas.js';
