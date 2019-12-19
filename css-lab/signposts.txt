@@ -1,0 +1,33 @@
+0. The goal of a presentation is an intro in CSSLab
+1. The problem
+2. Site gallery
+2a. The straigt way of studying finally	
+3. Опыт предыдущих поколений
+4. Закат солнца вручную.
+[!!!] No my scripts /просто floats удалить/вернуть/
+Центральный пример!
+4a. Цель CSS Lab
+5. Using CSSLab to investigate sites /3 scripts/
+6. Show page source отданный gethtml.cgi
+[!!!] 7. Switching CSS properties using getstylefile.cgi
+7a. Filtering is not implemented but уже сделано много!
+8. It is live! /switch gallery's sites/
+8a. Look ahead
+gethtml.cgi getfilter.cgi ---getstylefile.cgi -> OK
+
+getstyle.cgi -> further
+9. Main: getstyle.cgi
+10. A site analyzer for a gallery (use pinklily | watch cgi params! ;-))
+11. View CSS file examples
+12. Go to a line
+13. All we need is 17 properties!
+14. CSS Properties info, CSS versions
+15. Show CSS properties for this site only
+16. How to use it to create text filters
+17. CSS filter implementation details /naming/
+18. getfilter.cgi and turning properties on/off inside a filter file (z.b. filter_default.txt)
+19. Final words /usefull app despite of lacking some features/ 
+- не зарываться глубоко в css files
+- всё держать на виду
+- и анализировать CSS стили сайтов
+20. Спасибо за просмотр.
